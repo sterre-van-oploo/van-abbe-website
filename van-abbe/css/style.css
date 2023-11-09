@@ -1,0 +1,17 @@
+html,
+
+body {
+    background-color: rgb(41, 41, 46);
+}
+
+h2, h4 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+}
+
